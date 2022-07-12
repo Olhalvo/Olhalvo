@@ -1,4 +1,4 @@
-#Welcome to my github profile
+# Welcome to my github profile
 I am Wellthatssad, also known as sad or Em, I am a Portuguese Java and C++ developer, I just recently decided to open source my little projects so my 
 github is kinda dry and filled with old stuff
 
@@ -6,7 +6,7 @@ I have a tendency to write unfynny and slightly preoucupating comments on my cod
 
 I have no big projects atm plannign on making a minecraft fabric mod soon™
 
-#In case you want to contact me I have a
+# In case you want to contact me I have a
 Twitter: @Well_thatssad
 Discord: Well_thatssad#6427 (preferred)
 Email: bernardomeloesteves1234@gmail.com
