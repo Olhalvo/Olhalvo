@@ -1,5 +1,5 @@
 # Welcome to my github profile
-I am Wellthatssad, also known as sad or Em, I am a Portuguese Java and C++ developer, I just recently decided to open source my little projects so my 
+I am Wellthatssad, also known as sad or Lys, I am a Portuguese Java and C++ developer, I just recently decided to open source my little projects so my 
 github is kinda dry and filled with old stuff
 
 I have a tendency to write unfynny and slightly preoucupating comments on my code so you can have a kick out of me while reading it
