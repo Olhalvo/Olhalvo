@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 18 year old first year comp sci student at ISEL.<br>Highly experienced in Java, quite knowledgeable of C/C++, Python and JS.<br>I have an enormous love for esolangs and other esoteric/unusual methods of programming<br>Barely used github, starting to get used to archiving my work<br>
+I'm a 18 year old second year comp sci student at ISEL.<br>Highly experienced in Java, quite knowledgeable of C/C++, Python and JS.<br>I have an enormous love for esolangs and other esoteric/unusual methods of programming<br>Barely used github, starting to get used to archiving my work<br>
 
 
 ## 🌐 Socials:
